@@ -55,5 +55,6 @@ about:
 
 extra:
   recipe-maintainers:
+    - olistarosta
     - maurosilber
     - hgrecco
